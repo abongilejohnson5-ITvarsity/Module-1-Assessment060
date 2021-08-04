@@ -50,17 +50,17 @@ table{
 	border-width: 1px;
 	border-style: solid;
 	border-color: black;
-	width:30%;
+	width:20%;
 }
 th{
 	font-weight    : 700;
 	background-color:;
 	color	       : black;
-	height:70%;
+	height:50%;
 	padding:15px;
 }
 td{
-	height:30px;
+	height:10px;
 	vertical-align:bottom;
 }
 
